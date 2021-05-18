@@ -10,3 +10,4 @@ if __name__ == '__main__':
     d.simulate(10)
     print(d)
     d.print()
+    print(d.stable())
